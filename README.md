@@ -9,10 +9,10 @@
 ## Full Version of the App [Not Free]
 https://youtu.be/e-hZ3O9BHek
 
-Ordering Chat
+## Ordering Chat
 ![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/59985283/77190434-33c09b00-6b14-11ea-9e31-c9cb06e327d8.gif)
 
-Locate the seller and the buyer and give direction to reach the desire location
+## Locate the seller and the buyer and give direction to reach the desire location
 ![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/59985283/77190444-3622f500-6b14-11ea-9f5d-1506b798b787.gif)
 
 ![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/59985283/77190429-328f6e00-6b14-11ea-98f6-ded9920555d5.gif)
