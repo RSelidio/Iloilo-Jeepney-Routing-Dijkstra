@@ -23,7 +23,7 @@ https://youtu.be/e-hZ3O9BHek
 
 ## Alert Notification System - Alert the user of the kidnapping information
 ![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/59985283/77190438-34593180-6b14-11ea-894c-05754d57c65e.gif)
-![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/59985283/77190447-37ecb880-6b14-11ea-804c-53166114d091.gif)
+![ezgif com-video-to-gif (9)](https://user-images.githubusercontent.com/59985283/77190439-34f1c800-6b14-11ea-86f4-f915b5ea80c6.gif)
 
 ## Pop-up Notification - To notify or advertise a message to all the users
-![ezgif com-video-to-gif (9)](https://user-images.githubusercontent.com/59985283/77190439-34f1c800-6b14-11ea-86f4-f915b5ea80c6.gif)
+![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/59985283/77190447-37ecb880-6b14-11ea-804c-53166114d091.gif)
