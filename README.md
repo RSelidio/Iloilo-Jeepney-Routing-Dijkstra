@@ -1,6 +1,7 @@
 # Iloilo Jeepney Routing - Using Dijkstra's algorithm
 
-
+# [Main repository is private] 
+# [Only the jeepney static routing with navigation is available in this repository. Please email rselidio@usa.edu.ph to request the overall repository]
 
 ### A jeepney routing system in Iloilo City. The application will give the users a turn by turn  direction from source to destination.
 
